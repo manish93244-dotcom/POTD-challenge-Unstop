@@ -30,7 +30,7 @@ function main() {
     const stones = input.slice(3, 3 + p).map(Number);
 
     const result = find_lucky_stone_pairs(p, n, m, stones);
-    console.log(result);
+    console.log(parinam);
 }
 
 main();
