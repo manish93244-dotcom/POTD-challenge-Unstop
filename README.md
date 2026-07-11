@@ -19,7 +19,8 @@ As displayed in the repository details from **image_af5937.png**, this challenge
 
 ## 📂 Repository Structure
 
-The code is directly organized by day at the root directory level for quick file accessibility. Each day's solution file identifies with its target challenge day prefix followed by its unique language extension:
+The code is directly organized by day at the root directory level for quick file accessibility. <br/> 
+Each day's solution file identifies with its target challenge day prefix followed by its unique language extension:
 
 ```text
 ├── Day-01.java
