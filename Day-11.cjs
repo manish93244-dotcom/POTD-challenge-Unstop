@@ -194,4 +194,8 @@ function main() {
     processQueries(n, edges, queries);
 }
 
+<<<<<<< HEAD
 main();
+=======
+main();
+>>>>>>> 0efbc89a8d3e617bcee5aa1fee60e87054e523b5
