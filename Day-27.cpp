@@ -44,4 +44,8 @@ int main() {
     free(priorities);
     free(result);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 84acad8e788b8e36c7e9e7180e454a996336624e
